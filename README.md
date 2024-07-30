@@ -8,7 +8,7 @@ business strategy.
 
 ## Usage
 
-The Jupyter notebook includes the Python import statements required for running the project - including Numpy, Pandas, MatPlotLib, the StatsModel API and Seaborn. 
+The Jupyter notebook `ISP_SARIMA.ipynb` includes the Python import statements required for running the project - including Numpy, Pandas, MatPlotLib, the StatsModel API and Seaborn. 
 
 ## References
 
